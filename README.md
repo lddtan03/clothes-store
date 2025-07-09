@@ -1,8 +1,5 @@
 # Clothes Store
-
 This project is a full-stack e-commerce application for a clothes store, featuring a ReactJS frontend and a Laravel backend.
-
-
 ## Technologies Used
 
 * **Laravel**
@@ -26,7 +23,7 @@ This project is a full-stack e-commerce application for a clothes store, featuri
 1.  **Clone the repository:**
     
     ```bash
-    git clone [https://github.com/lddtan03/clothes-store.git]
+    git clone https://github.com/lddtan03/clothes-store.git
     ```
 2.  **Change to the project directory:**
     ```bash
@@ -39,7 +36,7 @@ This project is a full-stack e-commerce application for a clothes store, featuri
     ```
 
 4.  **Create database:**
-    Create a MySQL Database with the name `clothes_store` using phpMyAdmin (included with XAMPP) or your preferred database management tool.
+    Create a MySQL Database with the name: `clothes_store`
 
 ### Step 2: Database Migration and Seeding
 
@@ -79,7 +76,7 @@ This project is a full-stack e-commerce application for a clothes store, featuri
     ```bash
     cd frontend
     ```
-2.  **Install Node.js dependencies:**
+2.  **Install dependencies:**
 
     ```bash
     npm install
